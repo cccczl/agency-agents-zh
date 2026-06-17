@@ -18,6 +18,37 @@
 
 ---
 
+## 🙏 贊助商 &nbsp;<sub>想出現在這裡？聯絡 [jnMetaCode@qq.com](mailto:jnMetaCode@qq.com)</sub>
+
+<p align="center">
+  <a href="https://apinebula.com/V6ekjG">
+    <img src="assets/sponsor-apinebula.jpeg" alt="APINEBULA — 企業級 AI 聚合平台，聚合 Claude / GPT / Gemini 滿血模型，一個接口接入全球頂尖大模型，價格低至 1 折起" width="100%">
+  </a>
+</p>
+
+感謝 [APINEBULA](https://apinebula.com/V6ekjG) 大屏贊助本專案！APINEBULA 是銀河錄像局旗下的企業級 AI 聚合平台，背靠大平台資源，面向開發者、團隊與企業用戶提供穩定、高性價比的大模型 API 接入服務。平台聚合 Claude、GPT、Gemini 等主流滿血模型，一個接口即可接入全球頂尖 AI 大模型，各大模型價格低至 1 折起，支持企業級高併發、正式合同、對公打款與開票服務，適合 AI 編程、Agent 開發、業務系統集成等多種場景！
+
+🎁 **點擊[此連結](https://apinebula.com/V6ekjG)註冊並在充值時填寫「agent」優惠碼，即可享九折優惠！**
+
+<table>
+<tr>
+<td width="55%">
+  <a href="https://passport.compshare.cn/register?referral_code=ETD3L5JBM13CtKARkMORot&ytag=GPU_YY_YX_git_agency-agents">
+    <img src="assets/sponsor-compshare.jpeg" alt="優雲智算 — 熱門國產模型按次調用套餐包，低至 49 元/月起" width="100%">
+  </a>
+</td>
+<td width="45%" valign="middle">
+
+感謝[優雲智算](https://passport.compshare.cn/register?referral_code=ETD3L5JBM13CtKARkMORot&ytag=GPU_YY_YX_git_agency-agents)贊助了本專案！優雲智算是 UCloud 旗下 AI 雲平台，主打包月、按次的高性價比國模 Agent Plan 套餐，低至 49 元/月起。同時提供官轉穩定海外模型。支持接入 Claude Code、Codex 及 API 調用。支持企業高併發、7*24 技術支持、自助開票。
+
+🎁 **通過[此連結](https://passport.compshare.cn/register?referral_code=ETD3L5JBM13CtKARkMORot&ytag=GPU_YY_YX_git_agency-agents)註冊的用戶，可得免費 5 元平台體驗金！**
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 這是什麼？
 
 一套**開箱即用的 AI 角色庫**。每個智能體都有明確的身份定義、關鍵規則、工作流程和交付物，安裝到你的 AI 程式設計工具後用自然語言啟用。
