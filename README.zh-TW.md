@@ -26,9 +26,9 @@
   </a>
 </p>
 
-感謝 [APINEBULA](https://apinebula.com/V6ekjG) 大屏贊助本專案！APINEBULA 是銀河錄像局旗下的企業級 AI 聚合平台，背靠大平台資源，面向開發者、團隊與企業用戶提供穩定、高性價比的大模型 API 接入服務。平台聚合 Claude、GPT、Gemini 等主流滿血模型，一個接口接入全球頂尖 AI 大模型，各大模型價格低至 1 折起，支持企業級高併發、正式合同、對公打款與開票服務，適合 AI 編程、Agent 開發、業務系統集成等多種場景！
+感謝 [APINEBULA](https://apinebula.com/V6ekjG) 大屏贊助本專案！APINEBULA 是銀河錄像局旗下的企業級 AI 聚合平台，背靠大平台資源，面向開發者、團隊與企業用戶提供穩定、高性價比的大模型 API 接入服務。平台聚合 Claude、GPT、Gemini 等主流滿血模型，一個接口即可接入全球頂尖 AI 大模型，各大模型價格低至 1 折起，支持企業級高併發、正式合同、對公打款與開票服務，適合 AI 編程、Agent 開發、業務系統集成等多種場景！
 
-🎁 **通過[此連結](https://apinebula.com/V6ekjG)註冊並在充值時填寫「agent」優惠碼可享九折優惠！**
+🎁 **點擊[此連結](https://apinebula.com/V6ekjG)註冊並在充值時填寫「agent」優惠碼，即可享九折優惠！**
 
 <hr>
 
@@ -48,6 +48,34 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 讓角色庫跑起來 · Agency Orchestrator
+
+> 一句話，讓多個 AI 專家自動組隊協作，幾分鐘交付完整方案。
+
+```bash
+npm install -g agency-orchestrator
+ao compose "幫我寫一篇關於 AI Agent 的深度分析文章" --run
+```
+
+**不想用命令列？** [**下載桌面客戶端**](https://github.com/jnMetaCode/agency-orchestrator/releases/latest)（原生 App，免裝 Node，macOS / Windows / Linux），或線上體驗 [ao.aiolaola.com](https://ao.aiolaola.com)。
+
+零程式碼編排 · DAG 並行 · 斷點續跑 · 10 種大模型（7 種免 key）· 現成模板開箱即用 —— [**了解 Agency Orchestrator →**](https://github.com/jnMetaCode/agency-orchestrator)
+
+---
+
+## 🖼️ 線上瀏覽全部專家（無需安裝）
+
+搜尋 / 按部門篩選 / 查看與**複製每位專家的完整提示詞** —— 全部 216 位，直接在瀏覽器裡看：
+
+<p align="center">
+  <a href="https://ao.aiolaola.com/experts">
+    <img src="assets/experts-gallery.png" alt="agency-agents 專家庫線上瀏覽" width="640"><br/>
+    <strong>🔗 線上專家庫 ao.aiolaola.com/experts →</strong>
+  </a>
+</p>
 
 ---
 
